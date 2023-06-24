@@ -34,6 +34,8 @@ We have also built trained some linear regression models to try to predict "Life
 22. Schooling (in years)
 
 ## Gettins Started
+You can try this code on your own by opening google colab, and chossing "File"> "Open notebook" > "GitHub" and inserting the URL for this project. Then you only need to select the notebook file that is shown there.
+
 When running the code in a notebook environment, two files are generated:
 "fill_missing_gdp.csv" and "fill_missing_population.csv". 
 You may fill them with real data so that the code use it instead of removind these records.
