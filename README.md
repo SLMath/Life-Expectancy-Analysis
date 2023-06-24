@@ -48,3 +48,7 @@ Scikit-learn (for training and evaluation models)
 - Understand why the model is performing so good at the testing data
 - Input missing data
 - Search for better ways to treat data
+
+## Notes
+This project was initially developed during ADA's Data Science Path course - Statistics II module,
+along with collaborators.
