@@ -5,9 +5,9 @@
 
 ## Description
 Using the ["Life Expectancy (WHO)" dataset](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), 
-we have generate insights about the the correlation between the 22 parameters.
+we have generated insights about the correlation between the 22 parameters.
 
-We have also built trained some linear regression models to try to predict "Life Expectancy (in ages)".
+We have also trained some linear regression models to try to predict "Life Expectancy (in ages)".
 
 ### Dataset Metadata
 1. Country
@@ -33,7 +33,7 @@ We have also built trained some linear regression models to try to predict "Life
 21. income composition of resources: Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
 22. Schooling (in years)
 
-## Gettins Started
+## Getting Started
 You can try this code on your own by opening google colab, and chossing "File"> "Open notebook" > "GitHub" and inserting the URL for this project. Then you only need to select the notebook file that is shown there.
 
 When running the code in a notebook environment, two files are generated:
@@ -47,7 +47,7 @@ Data Visualization (Matplotlib, Seaborn),
 Scikit-learn (for training and evaluation models)
 
 ## Improvements
-- Understand why the model is performing so good at the testing data
+- Understand why the model is performing so well at the testing data (there may be data leakage)
 - Input missing data
 - Search for better ways to treat data
 
